@@ -38,6 +38,7 @@ public class grupo1Servlet extends HttpServlet {
             out.println("</head>");
             out.println("<body>");
             out.println("<h1>Servlet grupo1Servlet at " + request.getContextPath() + "</h1>");
+            out.println("<h1>Jorge.jsp </h1>");
             out.println("</body>");
             out.println("</html>");
         }
