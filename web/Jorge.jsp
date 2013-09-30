@@ -1,7 +1,7 @@
 <%-- 
-    Document   : salva
-    Created on : 30-sep-2013, 12:43:03
-    Author     : al037914
+    Document   : Jorge
+    Created on : 30-sep-2013, 12:27:10
+    Author     : al037213
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
@@ -9,9 +9,9 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>JSP Page</title>
+        <title>JSP Jorge Caballero</title>
     </head>
     <body>
-        <h1>Hello soy Salva!</h1>
+        <h1>Buenos Dias!!!!</h1>
     </body>
 </html>
