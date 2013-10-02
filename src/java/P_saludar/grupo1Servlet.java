@@ -42,8 +42,8 @@ public class grupo1Servlet extends HttpServlet {
             out.println("<h1>Servlet grupo1Servlet at " + request.getContextPath() + "</h1>");
             out.println("<a href='../01-Holamundo/Jorge.jsp'><h1>Jorge.jsp </h1></a>");
             out.println("<a href='../01-Holamundo/Salva.jsp'><h1>Salva.jsp </h1></a>");
-            out.println("<a href='../01-Holamundo/Jorge.jsp'><h1>Jorge.jsp </h1></a>");
-            out.println("<a href='../01-Holamundo/Jorge.jsp'><h1>Jorge.jsp </h1></a>");
+            out.println("<a href='../01-Holamundo/cristina.jsp'><h1>cristina.jsp </h1></a>");
+            out.println("<a href='../01-Holamundo/juan.jsp'><h1>juan.jsp </h1></a>");
             out.println("</body>");
             out.println("</html>");
         }
